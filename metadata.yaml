@@ -1,0 +1,43 @@
+_repo: A-Jacobite-Exile--13-Being-the-Adventures-of-a-Young-Englishman-in-the-Service-of-Charles-the__18357
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Henty, G. A. (George Alfred)
+    alias: Henty, George Alfred
+    birthdate: 1832
+    deathdate: 1902
+    gutenberg_agent_id: '1032'
+    url: http://www.gutenberg.org/2009/agents/1032
+    wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
+description: ''
+gutenberg_bookshelf:
+- Historical Fiction
+- Children's Fiction
+gutenberg_issued: '2006-05-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '18357'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Escapes -- Juvenile fiction'
+- !lcsh 'Jacobites -- Juvenile fiction'
+- !lcsh 'Wolves -- Juvenile fiction'
+- !lcsh 'Spies -- Juvenile fiction'
+- !lcsh 'Prisoners -- Juvenile fiction'
+- !lcsh 'Sweden -- History -- Charles XII, 1697-1718 -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcsh 'Battles -- Juvenile fiction'
+- !lcsh 'Exiles -- Juvenile fiction'
+- !lcsh 'Adventure stories'
+- !lcsh 'Rescues -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: "A Jacobite Exile\r\nBeing the Adventures of a Young Englishman in the Service\
+  \ of Charles the Twelfth of Sweden"
+url: http://www.gutenberg.org/ebooks/18357
