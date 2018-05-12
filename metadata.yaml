@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1032
     wikipedia: http://en.wikipedia.org/wiki/G._A._Henty
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/18357#A-Jacobite-Exile--13-Being-the-Adventures-of-a-Young-Englishman-in-the-Service-of-Charles-the_
 gutenberg_bookshelf:
 - Historical Fiction
 - Children's Fiction
